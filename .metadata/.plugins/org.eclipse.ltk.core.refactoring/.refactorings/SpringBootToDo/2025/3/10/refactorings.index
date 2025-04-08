@@ -1,0 +1,19 @@
+1740994500460	Copy compilation unit
+1740994560059	Copy file
+1741008507269	Rename package 'com.todo.springboot.SpringBootToDo.hello.login'
+1741010793026	Copy file
+1741018948959	Copy file
+1741153214676	Copy file
+1741154312564	Extract local variable 'username'
+1741254802752	Copy file
+1741254808033	Copy file
+1741254819670	Rename resource 'navigation'.jspf'
+1741256460555	Delete element
+1741256470197	Delete element
+1741256498191	Delete element
+1741266495525	Extract method 'getLoggedInUsername'
+1741268144031	Extract local variable 'username'
+1741268151405	Extract local variable 'password'
+1741268192824	Extract method 'createNewUser'
+1741268308194	Inline local variable 'username'
+1741268320514	Inline local variable 'password'

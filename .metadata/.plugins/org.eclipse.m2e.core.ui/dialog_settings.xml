@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\PRATEEK\Preparation Hibernate Spring"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.tutorial"/>
+		</list>
+		<list key="groupId">
+			<item value="com.tutorial"/>
+		</list>
+		<list key="artifactId">
+			<item value="ProjectWithMaven"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\PRATEEK\Preparation-Hibernate-Spring\spring-cloud-config-server"/>
+			<item value="D:\PRATEEK\Preparation-Hibernate-Spring\limits-service"/>
+			<item value="D:\PRATEEK\Preparation Hibernate Spring\limits-service"/>
+			<item value="D:\PRATEEK\Preparation Hibernate Spring\restful-web-services"/>
+			<item value="D:\PRATEEK\Downloads\spring-microservices-v3-main\02.restful-web-services"/>
+			<item value="D:\PRATEEK\Preparation Hibernate Spring\rest-api"/>
+			<item value="D:\PRATEEK\Preparation Hibernate Spring\SpringBootToDo"/>
+			<item value="D:\PRATEEK\Preparation Hibernate Spring\SpringBootM"/>
+			<item value="D:\PRATEEK\Preparation Hibernate Spring\database-demo"/>
+			<item value="D:\PRATEEK\Preparation Hibernate Spring\learn-springaop"/>
+			<item value="D:\PRATEEK\Preparation Hibernate Spring\learn-springboot"/>
+			<item value="D:\PRATEEK\Preparation Hibernate Spring\mockito-demo"/>
+			<item value="D:\AAGMAN\spring-master-class-master\01-spring-in-depth"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

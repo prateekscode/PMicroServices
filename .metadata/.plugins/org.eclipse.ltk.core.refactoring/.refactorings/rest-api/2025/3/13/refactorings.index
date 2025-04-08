@@ -1,0 +1,6 @@
+1742826619329	Extract local variable 'locationHeader'
+1742904494897	Extract local variable 'response'
+1742905039580	Delete element
+1742905072679	Delete element
+1742906869661	Extract method 'createHttpContentTypeAndAuthorizationHeaders'
+1743245444069	Copy package

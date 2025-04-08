@@ -1,0 +1,3 @@
+spring.application.name=restful-web-services
+server.port=
+management.endpoints.jmx.exposure.include=*
