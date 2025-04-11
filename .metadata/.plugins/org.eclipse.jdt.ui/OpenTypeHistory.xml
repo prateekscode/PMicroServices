@@ -1,6 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy>
-    <typeInfo handle="=SpringBootToDo/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.todo.springboot.SpringBootToDo.todo{TodoController.java[TodoController" modifiers="1" timestamp="1742022854280"/>
-    <typeInfo handle="=SpringBootToDo/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.todo.springboot.SpringBootToDo.todo{TodoService.java[TodoService" modifiers="1" timestamp="1741265530396"/>
-    <typeInfo handle="=ProjectWithMaven/C:\/Users\/Prateek\/.m2\/repository\/org\/hibernate\/orm\/hibernate-core\/6.2.3.Final\/hibernate-core-6.2.3.Final.jar=/maven.pomderived=/true=/=/maven.groupId=/org.hibernate.orm=/=/maven.artifactId=/hibernate-core=/=/maven.version=/6.2.3.Final=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.hibernate.dialect(MySQL8Dialect.class[MySQL8Dialect" modifiers="1048609" timestamp="1737807695370"/>
-</typeInfoHistroy>
+<typeInfoHistroy/>

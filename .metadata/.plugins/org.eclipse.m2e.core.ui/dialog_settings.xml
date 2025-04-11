@@ -79,6 +79,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\PRATEEK\PMicroServices\currency-conversion-service"/>
+			<item value="D:\PRATEEK\PMicroServices\currency-exchange-service"/>
 			<item value="D:\PRATEEK\Preparation-Hibernate-Spring\spring-cloud-config-server"/>
 			<item value="D:\PRATEEK\Preparation-Hibernate-Spring\limits-service"/>
 			<item value="D:\PRATEEK\Preparation Hibernate Spring\limits-service"/>
