@@ -79,6 +79,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\PRATEEK\PMicroServices\api-gateway"/>
+			<item value="D:\PRATEEK\PMicroServices\naming-server"/>
 			<item value="D:\PRATEEK\PMicroServices\currency-conversion-service"/>
 			<item value="D:\PRATEEK\PMicroServices\currency-exchange-service"/>
 			<item value="D:\PRATEEK\Preparation-Hibernate-Spring\spring-cloud-config-server"/>
@@ -92,8 +94,6 @@
 			<item value="D:\PRATEEK\Preparation Hibernate Spring\database-demo"/>
 			<item value="D:\PRATEEK\Preparation Hibernate Spring\learn-springaop"/>
 			<item value="D:\PRATEEK\Preparation Hibernate Spring\learn-springboot"/>
-			<item value="D:\PRATEEK\Preparation Hibernate Spring\mockito-demo"/>
-			<item value="D:\AAGMAN\spring-master-class-master\01-spring-in-depth"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

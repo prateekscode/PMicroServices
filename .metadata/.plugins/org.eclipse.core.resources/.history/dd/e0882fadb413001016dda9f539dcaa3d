@@ -1,5 +1,0 @@
-package com.microservices.limits_service.bean;
-
-public class Limits {
-
-}
